@@ -9,10 +9,10 @@
   "layer": [
     {
       "data": {
-        "url": "https://github.com/LittleGraper/FIT3179-2023S2-Assignment2/blob/main/Map/js/ne_110m.topojson?short_path=0a68b3a",
+        "url": "https://github.com/LittleGraper/FIT3179-2023S2-Assignment2/blob/main/Map/js/Japan_topo.topojson",
         "format": {
           "type": "topojson",
-          "feature": "ne_110m_admin_0_countries"
+          "feature": "Japan_topo"
         }
       },
       "mark": {
@@ -33,17 +33,17 @@
       },
       "encoding": {
         "longitude": {
-          "field": "longitude",
+          "field": "Longitude",
           "type": "quantitative"
         },
         "latitude": {
-          "field": "latitude",
+          "field": "Latitude",
           "type": "quantitative"
         },
         "size": {
-          "field": "mag",
+          "field": "Magnitude",
           "type": "quantitative",
-          "title": "Magnitude (Richter scale)",
+          "title": "Magnitude",
           "scale": {
             "domain": [
               4,
@@ -52,7 +52,7 @@
           }
         },
         "color": {
-          "field": "depth",
+          "field": "Depth",
           "type": "quantitative",
           "title": "Depth in km",
           "scale": {
