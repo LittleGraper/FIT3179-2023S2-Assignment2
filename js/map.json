@@ -9,7 +9,7 @@
   "layer": [
     {
       "data": {
-        "url": "js/Japan_topo.topojson",
+        "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/js/Japan_topo.topojson",
         "format": {
           "type": "topojson",
           "feature": "Japan_topo"
