@@ -9,7 +9,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/ne_110m_admin_0_countries.topojson",
+        "url": "https://github.com/LittleGraper/FIT3179-2023S2-Assignment2/blob/main/Map/js/ne_110m.topojson?short_path=0a68b3a",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
@@ -18,12 +18,12 @@
       "mark": {
         "type": "geoshape",
         "fill": "lightgray",
-        "stroke": "white"
+        "stroke": "black"
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/data/earthquake.csv"
+        "url": "https://github.com/LittleGraper/FIT3179-2023S2-Assignment2/blob/main/Map/data/Earthquake_Japan.csv"
       },
       "mark": {
         "type": "circle",
