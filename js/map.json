@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 900,
-  "height": 800,
+  "width": 800,
+  "height": 450,
   "title": "Earthquakes of magnitude above 6 between 2000 and 2020 in Japan",
   "projection": {
     "type": "equirectangular"
@@ -9,7 +9,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/js/Japan_topo.topojson",
+        "url": "js/Japan_topo.topojson",
         "format": {
           "type": "topojson",
           "feature": "Japan_topo"
