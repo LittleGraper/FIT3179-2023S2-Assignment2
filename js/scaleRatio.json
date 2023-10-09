@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "The proportion of earthquakes(by scales)",
+    "width": 200,
+    "height": 200,
+    "data": {
+        "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
+    },
+    "transform": [
+        {
+            "filter": "datum.Scale === 'Great'|| datum.Scale === 'Major'|| datum.Scale === 'Strong'|| datum.Scale === 'Moderate'"
+        },
+        {
+            "aggregate": [
+                {
+                    "op": "count",
+                    "as": "count"
+                }
+            ],
+            "groupby": [
+                "Scale"
+            ]
+        }
+    ],
+    "layer": [
+        {
+            "mark": {
+                "type": "arc",
+                "innerRadius": 20,
+                "stroke": "#fff"
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "radiusOffset": 10
+            },
+            "encoding": {
+                "text": {
+                    "field": "count",
+                    "type": "quantitative"
+                }
+            }
+        }
+    ],
+    "encoding": {
+        "theta": {
+            "field": "count",
+            "type": "quantitative",
+            "stack": true
+        },
+        "angle": {
+            "field": "count"
+        },
+        "radius": {
+            "field": "count",
+            "scale": {
+                "type": "linear",
+                "zero": true,
+                "rangeMin": 20
+            }
+        },
+        "color": {
+            "field": "count",
+            "type": "nominal",
+            "legend": null
+        },
+        "tooltip": [
+            {
+                "field": "Scale"
+            },
+            {
+                "field": "count",
+                "type": "quantitative"
+            }
+        ]
+    }
+}
