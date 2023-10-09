@@ -1,0 +1,164 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": 500,
+    "width": 500,
+    "title": "The numerical relationship between Magnitude and Focal Depth",
+    "data": {
+        "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
+    },
+    "params": [
+        {
+            "name": "Magnitude_Above",
+            "value": 5.5,
+            "bind": {
+                "input": "range",
+                "min": 5.5,
+                "max": 9,
+                "step": 0.1
+            }
+        }
+    ],
+    "selection": {
+        "Scale_selection": {
+            "type": "multi",
+            "fields": [
+                "Scale"
+            ],
+            "bind": "legend"
+        }
+    },
+    "transform": [
+        {
+            "filter": "datum.Depth > 0"
+        },
+        {
+            "filter": "datum.Magnitude > 0"
+        },
+        {
+            "filter": "datum.Magnitude > Magnitude_Above"
+        }
+    ],
+    "mark": "point",
+    "encoding": {
+        "y": {
+            "field": "Magnitude",
+            "type": "quantitative",
+            "title": "Magnitude",
+            "axis": {
+                "tickCount": 6
+            },
+            "scale": {
+                "type": "log",
+                "domain": [
+                    6,
+                    9.5
+                ]
+            }
+        },
+        "x": {
+            "field": "Depth",
+            "type": "quantitative",
+            "axis": {
+                "tickCount": 6
+            },
+            "scale": {
+                "type": "linear",
+                "domain": [
+                    0,
+                    700
+                ]
+            }
+        },
+        "size": {
+            "field": "Magnitude",
+            "type": "quantitative",
+            "legend": {
+                "values": [
+                    6,
+                    7,
+                    8,
+                    9
+                ]
+            },
+            "scale": {
+                "range": [
+                    15,
+                    150
+                ],
+                "domain": [
+                    6,
+                    9
+                ]
+            }
+        },
+        "fill": {
+            "field": "Scale",
+            "type": "nominal",
+            "scale": {
+                "domain": [
+                    "Great",
+                    "Major",
+                    "Strong",
+                    "Moderate"
+                ],
+                "range": [
+                    "#e41a1c",
+                    "#ff7f00",
+                    "#a6cee3",
+                    "#a65628"
+                ]
+            }
+        },
+        "color": {
+            "field": "Scale",
+            "type": "nominal",
+            "scale": {
+                "domain": [
+                    "Great",
+                    "Major",
+                    "Strong",
+                    "Moderate"
+                ],
+                "range": [
+                    "#e41a1c",
+                    "#ff7f00",
+                    "#a6cee3",
+                    "#a65628"
+                ]
+            }
+        },
+        "opacity": {
+            "condition": {
+                "selection": "Scale_selection",
+                "value": 0.8
+            },
+            "value": 0.2
+        },
+        "tooltip": [
+            {
+                "field": "Time",
+                "type": "nominal"
+            },
+            {
+                "field": "Magnitude",
+                "type": "quantitative",
+                "format": ","
+            },
+            {
+                "field": "Depth",
+                "type": "quantitative",
+                "format": ","
+            },
+            {
+                "field": "Latitude",
+                "type": "quantitative",
+                "format": ""
+            },
+            {
+                "field": "Longitude",
+                "type": "quantitative",
+                "format": ","
+            }
+        ]
+    }
+}
