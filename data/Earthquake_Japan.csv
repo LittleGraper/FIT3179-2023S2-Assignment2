@@ -1,283 +1,283 @@
-Time,Latitude,Longitude,Depth,Magnitude,Place,scale
-2000-01-28T14:21:07.340Z,43.046,146.837,61.1,6.8,"84 km S of Shikotan, Russia",Strong
-2000-02-13T02:57:08.720Z,42.853,131.572,513.6,6.0,"15 km E of Slavyanka, Russia",Moderate
-2000-06-03T08:54:49.200Z,35.552,140.464,62.3,6.2,"6 km SE of Narut?, Japan",Strong
-2000-06-06T14:57:02.220Z,29.424,131.421,33.0,6.4,"124 km SE of Koshima, Japan",Strong
-2000-06-09T23:31:45.290Z,30.491,137.73,485.3,6.3,"Izu Islands, Japan region",Strong
-2000-06-15T11:10:46.210Z,29.368,132.082,10.0,6.1,"177 km ESE of Koshima, Japan",Strong
-2000-06-25T06:34:42.880Z,31.183,131.206,10.0,6.0,"33 km S of Kushima, Japan",Moderate
-2000-07-01T07:01:55.580Z,34.221,139.131,10.0,6.1,"53 km SSE of Shimoda, Japan",Strong
-2000-07-15T01:30:30.500Z,34.319,139.26,10.0,6.1,"near the south coast of Honshu, Japan",Strong
-2000-07-20T18:39:18.820Z,36.51,140.983,47.1,6.0,"31 km ESE of Hitachi, Japan",Moderate
-2000-07-30T12:25:45.570Z,33.901,139.376,10.0,6.5,"94 km SSE of Shimoda, Japan",Strong
-2000-08-06T07:27:12.900Z,28.856,139.556,394.8,7.4,"Bonin Islands, Japan region",Major
-2000-10-03T04:13:30.490Z,40.282,143.124,33.0,6.3,"123 km NE of Miyako, Japan",Strong
-2000-10-06T04:30:19.150Z,35.456,133.134,10.0,6.7,"8 km ESE of Matsue, Japan",Strong
-2000-10-27T04:21:51.600Z,26.266,140.46,388.0,6.1,"Bonin Islands, Japan region",Strong
-2000-11-13T15:57:21.610Z,42.489,144.765,33.0,6.0,"62 km SSE of Kushiro, Japan",Moderate
-2000-12-22T10:13:01.110Z,44.79,147.196,140.4,6.2,"72 km SW of Kuril’sk, Russia",Strong
-2001-02-26T05:58:22.430Z,46.815,144.525,392.0,6.1,"135 km E of Korsakov, Russia",Strong
-2001-03-24T06:27:53.580Z,34.083,132.526,50.0,6.8,"16 km SSW of Kure, Japan",Strong
-2001-04-14T23:27:26.660Z,30.092,141.768,10.0,6.0,"Izu Islands, Japan region",Moderate
-2001-04-26T17:48:57.470Z,43.097,145.923,86.0,6.0,"37 km SE of Nemuro, Japan",Moderate
-2001-08-13T20:11:23.400Z,41.046,142.308,38.0,6.4,"87 km ENE of Misawa, Japan",Strong
-2001-12-02T13:01:53.670Z,39.402,141.089,123.8,6.5,"3 km NW of Hanamaki, Japan",Strong
-2001-12-08T20:29:34.230Z,28.251,129.574,33.0,6.2,"15 km SE of Naze, Japan",Strong
-2002-06-28T17:19:30.270Z,43.752,130.666,566.0,7.3,"50 km SW of Dongning, China",Major
-2002-08-02T23:11:39.130Z,29.28,138.97,426.1,6.3,"Izu Islands, Japan region",Strong
-2002-08-20T10:59:32.020Z,30.986,141.966,9.0,6.3,"Izu Islands, Japan region",Strong
-2002-08-24T18:40:53.440Z,43.11,146.118,42.6,6.1,"50 km ESE of Nemuro, Japan",Strong
-2002-09-15T08:39:32.700Z,44.833,129.923,586.3,6.4,"21 km ENE of Chaihe, China",Strong
-2002-10-14T14:12:43.750Z,41.174,142.249,61.4,6.1,"87 km E of Mutsu, Japan",Strong
-2002-11-03T03:37:42.070Z,38.886,141.977,39.0,6.4,"30 km SE of ?funato, Japan",Strong
-2003-04-29T13:53:17.300Z,43.706,147.805,62.5,6.0,"87 km E of Shikotan, Russia",Moderate
-2003-05-26T09:24:33.400Z,38.849,141.568,68.0,7.0,"27 km SSW of ?funato, Japan",Major
-2003-07-25T22:13:29.970Z,38.415,140.996,6.0,6.1,"7 km NW of Matsushima, Japan",Strong
-2003-08-31T23:08:00.260Z,43.393,132.267,481.1,6.2,"6 km E of Knevichi, Russia",Strong
-2003-09-25T19:50:06.360Z,41.815,143.91,27.0,8.16,"134 km SSW of Kushiro, Japan",Great
-2003-09-25T21:08:00.030Z,41.774,143.593,33.0,7.4,"119 km ESE of Shizunai-furukawach?, Japan",Major
-2003-09-26T20:38:22.100Z,41.988,144.576,33.0,6.0,"110 km S of Kushiro, Japan",Moderate
-2003-09-29T02:36:53.140Z,42.45,144.38,25.0,6.5,"58 km S of Kushiro, Japan",Strong
-2003-10-08T09:06:55.340Z,42.648,144.57,32.0,6.7,"39 km SSE of Kushiro, Japan",Strong
-2003-10-31T01:06:28.280Z,37.812,142.619,10.0,7.0,"133 km ESE of Ishinomaki, Japan",Major
-2003-11-12T08:26:43.740Z,33.171,137.072,384.9,6.4,"118 km ESE of Shing?, Japan",Strong
-2003-12-29T01:30:54.700Z,42.423,144.613,33.0,6.1,"64 km SSE of Kushiro, Japan",Strong
-2004-04-03T23:02:00.870Z,36.428,141.008,31.0,6.0,"37 km ESE of Hitachi, Japan",Moderate
-2004-04-11T18:06:12.480Z,42.918,144.836,41.8,6.1,"38 km E of Kushiro, Japan",Strong
-2004-05-29T20:56:09.600Z,34.251,141.406,16.0,6.5,"140 km SE of Katsuura, Japan",Strong
-2004-07-22T09:45:14.900Z,26.489,128.894,20.9,6.1,"91 km E of Nago, Japan",Strong
-2004-09-05T10:07:07.820Z,33.07,136.618,14.0,7.2,"94 km SE of Shing?, Japan",Major
-2004-09-05T14:57:18.610Z,33.184,137.071,10.0,7.4,"118 km ESE of Shing?, Japan",Major
-2004-09-05T14:57:32.270Z,33.202,137.101,15.0,6.51,"119 km ESE of Shing?, Japan",Strong
-2004-09-06T23:29:35.090Z,33.205,137.227,10.0,6.6,"129 km ESE of Shing?, Japan",Strong
-2004-09-08T14:58:25.830Z,33.14,137.2,21.2,6.1,"130 km ESE of Shing?, Japan",Strong
-2004-10-23T08:56:00.860Z,37.226,138.779,16.0,6.6,"8 km SSW of Ojiya, Japan",Strong
-2004-10-23T09:03:12.530Z,37.318,138.816,10.5,6.1,"2 km NE of Ojiya, Japan",Strong
-2004-10-23T09:34:04.990Z,37.318,138.808,10.0,6.3,"2 km NNE of Ojiya, Japan",Strong
-2004-10-27T01:40:50.260Z,37.284,138.885,14.1,6.0,"7 km ESE of Ojiya, Japan",Moderate
-2004-11-11T10:02:47.330Z,42.139,144.344,32.8,6.1,"92 km S of Kushiro, Japan",Strong
-2004-11-28T18:32:14.130Z,43.006,145.119,39.0,7.0,"51 km SW of Nemuro, Japan",Major
-2004-12-06T14:15:11.890Z,42.9,145.228,35.0,6.8,"54 km SSW of Nemuro, Japan",Strong
-2005-01-18T14:09:06.220Z,42.946,144.866,42.0,6.3,"40 km E of Kushiro, Japan",Strong
-2005-01-19T06:11:36.400Z,34.064,141.491,27.8,6.6,"161 km SE of Katsuura, Japan",Strong
-2005-02-09T18:46:09.970Z,26.088,143.997,24.0,6.3,"Bonin Islands, Japan region",Strong
-2005-03-20T01:53:41.830Z,33.807,130.131,10.0,6.6,"28 km NNW of Maebaru-ch??, Japan",Strong
-2005-08-16T02:46:28.400Z,38.276,142.039,36.0,7.2,"66 km ESE of Ishinomaki, Japan",Major
-2005-08-24T10:15:28.190Z,38.564,142.987,10.0,6.1,"123 km ESE of ?funato, Japan",Strong
-2005-08-30T18:10:45.460Z,38.481,143.175,21.1,6.1,"142 km ESE of ?funato, Japan",Strong
-2005-09-21T02:25:08.110Z,43.892,146.145,103.0,6.1,"27 km ESE of Yuzhno-Kurilsk, Russia",Strong
-2005-10-19T11:44:42.790Z,36.405,140.839,32.0,6.3,"25 km ENE of ?arai, Japan",Strong
-2005-11-14T21:38:51.420Z,38.107,144.896,11.0,7.0,"293 km ESE of Kamaishi, Japan",Major
-2005-11-21T15:36:30.980Z,31.019,129.997,145.0,6.1,"41 km SW of Makurazaki, Japan",Strong
-2005-12-02T13:13:09.520Z,38.089,142.122,29.0,6.5,"80 km ESE of Ishinomaki, Japan",Strong
-2005-12-16T18:32:16.420Z,38.506,141.9,42.9,6.0,"53 km E of Ishinomaki, Japan",Moderate
-2006-06-11T20:01:26.350Z,33.134,131.145,140.0,6.3,"15 km S of Tsukawaki, Japan",Strong
-2006-10-10T23:58:04.000Z,37.197,142.664,9.0,6.0,"150 km ESE of Namie, Japan",Moderate
-2006-10-23T21:17:19.980Z,29.351,140.27,11.0,6.4,"Izu Islands, Japan region",Strong
-2006-11-17T18:03:12.260Z,28.591,129.895,22.0,6.2,"Ryukyu Islands, Japan",Strong
-2007-02-17T00:02:56.760Z,41.794,143.553,31.0,6.0,"115 km ESE of Shizunai-furukawach?, Japan",Moderate
-2007-03-08T05:03:32.260Z,29.908,140.204,139.6,6.1,"Izu Islands, Japan region",Strong
-2007-03-09T03:22:42.760Z,43.224,133.526,441.2,6.0,"19 km SE of Sergeyevka, Russia",Moderate
-2007-03-25T00:41:57.820Z,37.336,136.588,8.0,6.7,"46 km NW of Nanao, Japan",Strong
-2007-07-16T01:13:22.370Z,37.535,138.446,12.0,6.6,"20 km NNW of Kashiwazaki, Japan",Strong
-2007-07-16T14:17:37.340Z,36.808,134.85,350.4,6.8,"133 km WNW of Mikuni, Japan",Strong
-2007-08-07T00:02:24.200Z,27.292,126.836,18.1,6.0,"136 km WNW of Nago, Japan",Moderate
-2007-12-25T14:04:34.730Z,38.503,142.026,48.4,6.1,"64 km E of Ishinomaki, Japan",Strong
-2008-02-27T06:54:20.610Z,26.816,142.438,15.0,6.2,"Bonin Islands, Japan region",Strong
-2008-03-14T22:32:09.380Z,26.988,142.599,10.0,6.0,"Bonin Islands, Japan region",Moderate
-2008-05-07T16:02:02.600Z,36.178,141.545,19.0,6.2,"80 km NE of Hasaki, Japan",Strong
-2008-05-07T16:16:36.190Z,36.156,141.756,23.3,6.1,"95 km ENE of Hasaki, Japan",Strong
-2008-05-07T16:45:18.700Z,36.164,141.526,27.0,6.9,"78 km NE of Hasaki, Japan",Strong
-2008-06-13T23:43:45.360Z,39.03,140.881,7.8,6.9,"24 km WSW of Mizusawa, Japan",Strong
-2008-06-29T20:53:04.890Z,45.156,137.446,326.0,6.0,"66 km E of Terney, Russia",Moderate
-2008-07-08T07:42:10.730Z,27.532,128.334,43.0,6.0,"107 km NNE of Nago, Japan",Moderate
-2008-07-19T02:39:28.700Z,37.552,142.214,22.0,7.0,"107 km E of Namie, Japan",Major
-2008-07-21T11:30:29.280Z,37.186,142.051,22.0,6.0,"98 km ESE of Namie, Japan",Moderate
-2008-07-23T15:26:19.950Z,39.802,141.464,108.0,6.8,"29 km ENE of Morioka, Japan",Strong
-2008-09-11T00:20:50.920Z,41.892,143.754,25.0,6.8,"122 km SSE of Obihiro, Japan",Strong
-2008-12-20T10:29:23.100Z,36.541,142.425,19.0,6.3,"148 km ESE of Iwaki, Japan",Strong
-2009-06-05T03:30:33.060Z,41.824,143.445,29.0,6.4,"105 km ESE of Shizunai-furukawach?, Japan",Strong
-2009-08-09T10:55:55.110Z,33.167,137.944,292.0,7.1,"161 km S of ?yama, Japan",Major
-2009-08-10T20:07:09.110Z,34.743,138.264,40.4,6.2,"8 km NE of Sagara, Japan",Strong
-2009-08-12T22:48:51.420Z,32.821,140.395,53.0,6.6,"244 km SSE of Tateyama, Japan",Strong
-2009-09-03T13:26:17.950Z,31.14,130.014,163.0,6.2,"32 km WSW of Makurazaki, Japan",Strong
-2009-10-30T07:03:39.120Z,29.218,129.782,34.0,6.8,"98 km NNE of Naze, Japan",Strong
-2009-12-24T00:23:31.700Z,42.245,134.719,392.0,6.3,"98 km SE of Preobrazheniye, Russia",Strong
-2010-02-18T01:13:19.510Z,42.587,130.703,577.7,6.9,"15 km SSW of Kraskino, Russia",Strong
-2010-02-26T20:31:26.970Z,25.93,128.425,25.0,7.0,"70 km SE of Katsuren-haebaru, Japan",Major
-2010-03-14T08:08:03.960Z,37.745,141.59,32.0,6.5,"59 km ENE of Namie, Japan",Strong
-2010-05-03T10:27:45.090Z,29.645,140.951,84.0,6.1,,Strong
-2010-05-26T08:53:08.030Z,25.773,129.944,10.0,6.5,"216 km ESE of Katsuren-haebaru, Japan",Strong
-2010-07-04T21:55:51.980Z,39.697,142.369,27.0,6.3,"37 km E of Miyako, Japan",Strong
-2010-11-30T03:24:40.180Z,28.349,139.187,470.0,6.8,"Bonin Islands, Japan region",Strong
-2010-12-21T17:19:40.660Z,26.901,143.698,14.0,7.4,"Bonin Islands, Japan region",Major
-2010-12-22T21:49:40.080Z,26.81,143.595,18.0,6.4,"Bonin Islands, Japan region",Strong
-2011-01-12T21:32:53.860Z,26.973,139.882,512.0,6.4,"Bonin Islands, Japan region",Strong
-2011-03-09T02:45:20.330Z,38.435,142.842,32.0,7.3,"120 km SE of ?funato, Japan",Major
-2011-03-09T18:16:16.440Z,38.315,142.434,22.0,6.0,"99 km E of Ishinomaki, Japan",Moderate
-2011-03-09T21:22:17.580Z,38.345,142.648,23.0,6.0,"114 km SE of ?funato, Japan",Moderate
-2011-03-09T21:24:01.680Z,38.296,142.808,15.0,6.5,"128 km SE of ?funato, Japan",Strong
-2011-03-11T05:46:24.120Z,38.297,142.373,29.0,9.1,"2011 Great Tohoku Earthquake, Japan",Great
-2011-03-11T05:54:31.940Z,37.712,141.184,32.3,6.3,"30 km NNE of Namie, Japan",Strong
-2011-03-11T05:55:45.480Z,37.359,143.351,35.0,6.4,"208 km E of Namie, Japan",Strong
-2011-03-11T05:58:07.490Z,37.623,142.155,50.7,6.3,"103 km E of Namie, Japan",Strong
-2011-03-11T06:00:39.300Z,38.095,142.492,40.6,6.2,"110 km ESE of Ishinomaki, Japan",Strong
-2011-03-11T06:06:13.170Z,39.003,142.29,42.7,6.3,"47 km SE of Kamaishi, Japan",Strong
-2011-03-11T06:07:20.880Z,36.419,141.876,32.3,6.4,"108 km ESE of Kitaibaraki, Japan",Strong
-2011-03-11T06:08:29.660Z,38.969,143.37,2.8,6.7,"134 km ESE of Kamaishi, Japan",Strong
-2011-03-11T06:12:36.360Z,37.788,144.233,25.4,6.2,"261 km ESE of ?funato, Japan",Strong
-2011-03-11T06:13:01.040Z,37.211,141.601,40.1,6.2,"61 km ESE of Namie, Japan",Strong
-2011-03-11T06:15:23.120Z,37.93,143.802,35.0,6.3,"221 km SE of ?funato, Japan",Strong
-2011-03-11T06:15:40.280Z,36.281,141.111,42.6,7.9,"47 km E of ?arai, Japan",Major
-2011-03-11T06:18:49.510Z,36.023,142.269,16.0,6.6,"133 km ENE of Hasaki, Japan",Strong
-2011-03-11T06:20:04.110Z,36.004,142.067,49.3,6.5,"115 km ENE of Hasaki, Japan",Strong
-2011-03-11T06:21:32.700Z,38.29,142.813,51.7,6.2,"128 km SE of ?funato, Japan",Strong
-2011-03-11T06:23:09.480Z,39.03,142.284,56.3,6.2,"45 km SE of Kamaishi, Japan",Strong
-2011-03-11T06:25:50.300Z,38.058,144.59,18.6,7.7,"272 km ESE of Kamaishi, Japan",Major
-2011-03-11T06:29:15.990Z,37.812,144.233,40.6,6.1,"260 km ESE of ?funato, Japan",Strong
-2011-03-11T06:48:45.590Z,37.961,142.724,11.7,6.2,"134 km ESE of Ishinomaki, Japan",Strong
-2011-03-11T06:49:16.610Z,37.337,144.237,47.3,6.1,"284 km ESE of Ishinomaki, Japan",Strong
-2011-03-11T06:57:16.510Z,35.712,140.875,47.5,6.0,"4 km ESE of Hasaki, Japan",Moderate
-2011-03-11T06:59:00.270Z,37.357,144.725,35.9,6.3,"off the east coast of Honshu, Japan",Strong
-2011-03-11T07:14:58.820Z,36.586,141.823,24.7,6.3,"near the east coast of Honshu, Japan",Strong
-2011-03-11T07:25:36.460Z,37.934,144.529,39.5,6.1,"275 km ESE of Kamaishi, Japan",Strong
-2011-03-11T07:28:12.360Z,36.823,141.824,28.4,6.1,"87 km ESE of Iwaki, Japan",Strong
-2011-03-11T07:29:01.830Z,39.031,142.349,45.4,6.3,"49 km ESE of Kamaishi, Japan",Strong
-2011-03-11T07:30:18.450Z,37.442,141.195,49.2,6.0,"17 km ESE of Namie, Japan",Moderate
-2011-03-11T08:12:07.260Z,36.569,141.486,39.6,6.2,"70 km ESE of Kitaibaraki, Japan",Strong
-2011-03-11T08:15:41.850Z,37.047,144.541,41.0,6.1,"off the east coast of Honshu, Japan",Strong
-2011-03-11T08:19:24.380Z,36.166,141.562,6.8,6.5,"81 km NE of Hasaki, Japan",Strong
-2011-03-11T08:26:36.930Z,37.367,143.017,17.0,6.1,"178 km E of Namie, Japan",Strong
-2011-03-11T08:27:51.600Z,38.017,142.657,42.8,6.0,"126 km ESE of Ishinomaki, Japan",Moderate
-2011-03-11T08:31:09.260Z,37.469,141.176,37.3,6.0,"15 km E of Namie, Japan",Moderate
-2011-03-11T08:33:00.780Z,39.14,142.967,27.6,6.0,"94 km ESE of Yamada, Japan",Moderate
-2011-03-11T10:10:34.220Z,39.185,142.76,26.5,6.0,"76 km ESE of Yamada, Japan",Moderate
-2011-03-11T11:36:40.920Z,39.241,142.463,25.7,6.6,"50 km ESE of ?tsuchi, Japan",Strong
-2011-03-11T15:13:14.680Z,35.994,141.808,21.0,6.3,"92 km ENE of Hasaki, Japan",Strong
-2011-03-11T15:20:08.190Z,36.398,141.864,52.8,6.0,"108 km ESE of Takahagi, Japan",Moderate
-2011-03-11T18:59:16.540Z,37.014,138.376,9.3,6.2,"13 km E of Arai, Japan",Strong
-2011-03-11T19:02:59.170Z,39.342,142.872,27.1,6.0,"80 km E of Yamada, Japan",Moderate
-2011-03-11T19:46:50.880Z,40.483,139.055,10.0,6.2,"88 km WNW of Noshiro, Japan",Strong
-2011-03-11T20:11:24.060Z,39.005,142.633,17.4,6.1,"72 km ESE of Kamaishi, Japan",Strong
-2011-03-12T01:47:15.400Z,37.594,142.648,20.0,6.5,"146 km E of Namie, Japan",Strong
-2011-03-12T13:15:41.650Z,37.249,141.159,38.0,6.1,"29 km SSE of Namie, Japan",Strong
-2011-03-12T23:24:48.780Z,38.047,141.72,15.0,6.1,"55 km SE of Ishinomaki, Japan",Strong
-2011-03-13T01:26:04.250Z,35.723,141.637,8.0,6.1,"72 km E of Hasaki, Japan",Strong
-2011-03-14T06:12:36.060Z,37.785,142.456,14.0,6.0,"123 km SE of Ishinomaki, Japan",Moderate
-2011-03-15T13:27:56.630Z,37.576,142.237,28.0,6.0,"109 km E of Namie, Japan",Moderate
-2011-03-15T13:31:46.320Z,35.272,138.582,9.0,6.0,"6 km NNW of Fujinomiya, Japan",Moderate
-2011-03-15T15:23:53.850Z,40.335,143.288,18.0,6.1,"138 km ENE of Miyako, Japan",Strong
-2011-03-17T04:13:56.780Z,40.136,142.168,29.0,6.2,"57 km NNE of Miyako, Japan",Strong
-2011-03-22T07:18:45.380Z,37.244,144.003,11.0,6.4,"267 km E of Namie, Japan",Strong
-2011-03-22T09:19:06.230Z,37.325,141.791,31.0,6.1,"72 km ESE of Namie, Japan",Strong
-2011-03-22T09:44:29.330Z,39.851,143.437,13.0,6.4,"130 km E of Miyako, Japan",Strong
-2011-03-25T11:36:24.490Z,38.772,141.88,39.0,6.2,"36 km SSE of ?funato, Japan",Strong
-2011-03-27T22:23:58.800Z,38.415,142.011,19.0,6.2,"62 km E of Ishinomaki, Japan",Strong
-2011-03-29T10:54:33.200Z,37.401,142.29,15.0,6.1,"114 km E of Namie, Japan",Strong
-2011-03-31T07:15:30.190Z,38.922,141.821,42.0,6.0,"18 km SSE of ?funato, Japan",Moderate
-2011-04-07T14:32:43.290Z,38.276,141.588,42.0,7.1,"29 km ESE of Ishinomaki, Japan",Major
-2011-04-11T08:16:12.730Z,37.001,140.401,11.0,6.6,"17 km SSW of Ishikawa, Japan",Strong
-2011-04-11T23:08:16.870Z,35.417,140.575,15.0,6.2,"23 km SE of T?gane, Japan",Strong
-2011-04-13T19:57:25.420Z,39.583,143.34,22.0,6.0,"120 km E of Yamada, Japan",Moderate
-2011-04-21T13:37:03.340Z,35.579,140.305,43.0,6.2,"6 km WNW of T?gane, Japan",Strong
-2011-05-05T14:58:18.680Z,38.17,144.032,11.0,6.0,"224 km SE of Kamaishi, Japan",Moderate
-2011-05-13T23:35:52.860Z,37.396,141.341,35.0,6.1,"31 km ESE of Namie, Japan",Strong
-2011-06-03T00:05:00.830Z,37.285,143.907,14.0,6.1,"258 km E of Namie, Japan",Strong
-2011-06-22T21:50:52.350Z,39.955,142.205,33.0,6.7,"41 km NNE of Miyako, Japan",Strong
-2011-07-10T00:57:10.800Z,38.034,143.264,23.0,7.0,"177 km ESE of Ishinomaki, Japan",Major
-2011-07-23T04:34:24.180Z,38.898,141.815,41.0,6.3,"21 km SSE of ?funato, Japan",Strong
-2011-07-24T18:51:25.070Z,37.73,141.39,40.0,6.3,"43 km NE of Namie, Japan",Strong
-2011-07-30T18:53:50.720Z,36.942,140.955,38.0,6.3,"13 km SSE of Iwaki, Japan",Strong
-2011-08-17T11:44:08.370Z,36.765,143.77,9.0,6.1,"258 km ESE of Namie, Japan",Strong
-2011-08-19T05:36:33.040Z,37.671,141.652,47.0,6.2,"61 km ENE of Namie, Japan",Strong
-2011-09-15T08:00:09.640Z,36.256,141.338,28.0,6.1,"68 km E of ?arai, Japan",Strong
-2011-09-16T19:26:40.260Z,40.273,142.779,30.0,6.7,"99 km NE of Miyako, Japan",Strong
-2011-10-21T08:02:37.950Z,43.892,142.479,187.0,6.1,"16 km NE of Asahikawa, Japan",Strong
-2011-11-23T19:24:31.470Z,37.365,141.368,34.0,6.1,"35 km ESE of Namie, Japan",Strong
-2011-11-24T10:25:34.030Z,41.898,142.639,38.0,6.2,"53 km SSE of Shizunai-furukawach?, Japan",Strong
-2012-01-01T05:27:55.980Z,31.456,138.072,365.3,6.8,"Izu Islands, Japan region",Strong
-2012-03-14T09:08:35.140Z,40.887,144.944,12.0,6.9,"236 km SSE of Kushiro, Japan",Strong
-2012-03-14T10:49:24.580Z,40.781,144.761,10.0,6.1,"245 km S of Kushiro, Japan",Strong
-2012-03-14T12:05:04.520Z,35.687,140.695,10.0,6.0,"5 km SE of Asahi, Japan",Moderate
-2012-03-27T11:00:44.500Z,39.859,142.017,15.0,6.1,"24 km NNE of Miyako, Japan",Strong
-2012-05-20T07:20:36.870Z,39.646,143.164,11.0,6.3,"105 km E of Miyako, Japan",Strong
-2012-05-26T21:48:10.120Z,26.91,140.055,487.4,6.0,"Bonin Islands, Japan region",Moderate
-2012-06-05T19:31:33.750Z,34.943,141.132,15.0,6.1,"75 km ESE of ?hara, Japan",Strong
-2012-06-17T20:32:20.590Z,38.919,141.831,36.0,6.3,"19 km SSE of ?funato, Japan",Strong
-2012-10-01T22:21:46.020Z,39.808,143.099,15.0,6.1,"100 km E of Miyako, Japan",Strong
-2012-12-07T08:18:23.130Z,37.89,143.949,31.0,7.3,"234 km SE of ?funato, Japan",Major
-2012-12-07T08:31:14.800Z,37.914,143.764,32.0,6.2,"220 km SE of ?funato, Japan",Strong
-2013-02-02T14:17:35.130Z,42.77,143.092,107.0,6.9,"18 km SSW of Obihiro, Japan",Strong
-2013-04-01T18:53:17.420Z,39.526,143.167,14.0,6.0,"104 km E of Yamada, Japan",Moderate
-2013-04-05T13:00:02.130Z,42.736,131.003,563.3,6.3,"13 km NNW of Zarubino, Russia",Strong
-2013-04-21T03:22:16.220Z,29.933,138.887,421.9,6.1,"Izu Islands, Japan region",Strong
-2013-05-18T05:47:59.500Z,37.739,141.471,39.0,6.0,"50 km NE of Namie, Japan",Moderate
-2013-09-04T00:18:23.370Z,29.9377,138.8325,402.0,6.5,"Izu Islands, Japan region",Strong
-2013-10-25T17:10:19.710Z,37.1557,144.6611,35.0,7.1,"off the east coast of Honshu, Japan",Major
-2014-03-02T20:11:23.430Z,27.4312,127.3674,119.0,6.5,"109 km NW of Nago, Japan",Strong
-2014-03-13T17:06:50.770Z,33.6842,131.8249,79.0,6.3,"32 km SSW of Hikari, Japan",Strong
-2014-05-04T20:18:24.680Z,34.9118,139.4186,153.0,6.0,"31 km ESE of It?, Japan",Moderate
-2014-06-29T05:56:31.720Z,24.3877,142.6278,48.0,6.2,"Volcano Islands, Japan region",Strong
-2014-06-30T19:55:32.390Z,28.3404,138.8441,511.0,6.2,"Bonin Islands, Japan region",Strong
-2014-07-11T19:22:00.820Z,37.0052,142.4525,20.0,6.5,"139 km ESE of Namie, Japan",Strong
-2014-08-10T03:43:17.240Z,41.1585,142.1309,41.0,6.1,"78 km E of Mutsu, Japan",Strong
-2014-10-11T02:35:47.480Z,41.0272,143.1649,22.0,6.1,"152 km ENE of Hachinohe, Japan",Strong
-2014-11-22T13:08:18.420Z,36.6408,137.8875,9.0,6.2,"6 km SSE of Hakuba, Japan",Strong
-2015-02-16T23:06:28.270Z,39.8558,142.8808,23.0,6.7,"83 km ENE of Miyako, Japan",Strong
-2015-02-20T04:25:23.380Z,39.8244,143.5871,10.0,6.2,"142 km E of Miyako, Japan",Strong
-2015-02-21T10:13:53.290Z,39.8185,143.4861,7.0,6.0,"133 km E of Miyako, Japan",Moderate
-2015-05-10T21:25:46.440Z,31.2373,142.0157,6.0,6.0,"Izu Islands, Japan region",Moderate
-2015-05-12T21:12:58.890Z,38.9056,142.0317,35.0,6.8,"32 km SE of ?funato, Japan",Strong
-2015-05-30T11:23:02.110Z,27.8386,140.4931,664.0,7.8,"Bonin Islands, Japan region",Major
-2015-05-30T18:49:07.340Z,30.7856,142.9722,6.05,6.2,"Izu Islands, Japan region",Strong
-2015-06-08T06:01:08.300Z,41.5615,142.0308,42.0,6.1,"74 km ENE of Mutsu, Japan",Strong
-2015-06-23T12:18:30.270Z,27.7375,139.7254,460.0,6.5,"Bonin Islands, Japan region",Strong
-2015-07-07T05:10:28.120Z,43.9097,147.9748,49.0,6.3,"101 km E of Shikotan, Russia",Strong
-2015-09-01T15:25:09.520Z,31.1806,141.6,8.0,6.0,"Izu Islands, Japan region",Moderate
-2015-11-13T20:51:31.030Z,31.0009,128.8729,12.0,6.7,"140 km WSW of Makurazaki, Japan",Strong
-2016-01-11T17:08:03.920Z,44.4761,141.0867,238.81,6.2,"74 km NW of Rumoi, Japan",Strong
-2016-01-14T03:25:33.640Z,41.9723,142.781,46.0,6.7,"52 km SE of Shizunai-furukawach?, Japan",Strong
-2016-04-14T12:26:35.730Z,32.788,130.7042,9.0,6.2,"2 km SSE of Kumamoto, Japan",Strong
-2016-04-14T15:03:47.240Z,32.6973,130.7204,8.0,6.0,"5 km ENE of Uto, Japan",Moderate
-2016-04-15T16:25:06.220Z,32.7906,130.7543,10.0,7.0,"6 km ESE of Kumamoto, Japan",Major
-2016-08-04T16:24:33.530Z,24.9447,142.0141,510.0,6.3,"Volcano Islands, Japan region",Strong
-2016-08-20T09:01:26.210Z,40.3942,143.6796,10.0,6.0,"170 km ENE of Miyako, Japan",Moderate
-2016-09-20T16:21:16.550Z,30.5017,142.0478,9.0,6.1,"Izu Islands, Japan region",Strong
-2016-09-23T00:14:34.700Z,34.4619,141.6368,10.0,6.2,"142 km ESE of Katsuura, Japan",Strong
-2016-10-21T05:07:22.990Z,35.3743,133.8092,5.63,6.2,"6 km S of Kurayoshi, Japan",Strong
-2016-11-11T21:42:59.650Z,38.4973,141.5658,42.4,6.1,"24 km ENE of Ishinomaki, Japan",Strong
-2016-11-21T20:59:49.270Z,37.3931,141.387,9.0,6.9,"35 km ESE of Namie, Japan",Strong
-2017-05-09T01:54:14.550Z,24.45,126.3174,10.0,6.0,"110 km ESE of Hirara, Japan",Moderate
-2017-07-26T10:32:57.430Z,26.8975,130.1836,12.0,6.0,"176 km SSE of Naze, Japan",Moderate
-2017-09-03T03:30:01.760Z,41.3324,129.0297,0.0,6.3,"21 km ENE of S?ngjibaegam, North Korea",Strong
-2017-09-07T17:26:49.320Z,27.7829,139.8041,451.0,6.1,"Bonin Islands, Japan region",Strong
-2017-09-20T16:37:16.360Z,37.9814,144.6601,11.0,6.1,"282 km ESE of Kamaishi, Japan",Strong
-2017-10-06T07:59:32.880Z,37.5033,144.0201,9.0,6.2,"259 km ESE of Ishinomaki, Japan",Strong
-2017-11-09T07:42:11.020Z,32.5208,141.438,12.0,6.0,"Izu Islands, Japan region",Moderate
-2018-01-24T10:51:19.090Z,41.1034,142.4323,31.0,6.3,"99 km ENE of Misawa, Japan",Strong
-2018-09-05T18:07:59.150Z,42.6861,141.9294,35.0,6.6,"27 km ESE of Chitose, Japan",Strong
-2019-01-08T12:39:30.950Z,30.5872,131.0441,35.0,6.3,"16 km SSE of Nishinoomote, Japan",Strong
-2019-04-11T08:18:21.380Z,40.4096,143.2985,18.0,6.0,"143 km NE of Miyako, Japan",Moderate
-2019-05-09T23:48:42.779Z,31.7772,131.8483,22.0,6.2,"43 km ESE of Miyazaki, Japan",Strong
-2019-06-04T04:39:16.961Z,29.0665,139.289,422.0,6.4,"Izu Islands, Japan region",Strong
-2019-06-18T13:22:19.010Z,38.6391,139.4769,12.0,6.4,"31 km WSW of Tsuruoka, Japan",Strong
-2019-07-13T00:57:44.339Z,29.3533,128.1534,251.0,6.1,"169 km NW of Naze, Japan",Strong
-2019-07-27T18:31:07.540Z,33.1492,137.3029,367.0,6.3,"138 km ESE of Shing?, Japan",Strong
-2019-08-04T10:23:03.726Z,37.7594,141.6031,38.0,6.3,"61 km ENE of Namie, Japan",Strong
-2020-04-18T08:25:37.052Z,27.1264,140.1349,453.0,6.6,"Bonin Islands, Japan region",Strong
-2020-04-19T20:39:05.639Z,38.8953,142.0049,38.0,6.3,"31 km SE of ?funato, Japan",Strong
-2020-06-13T15:51:24.069Z,28.8591,128.2713,165.0,6.6,"130 km WNW of Naze, Japan",Strong
-2020-09-12T02:44:11.224Z,38.7482,142.2446,34.0,6.1,"58 km SE of ?funato, Japan",Strong
-2020-12-20T17:23:22.668Z,40.8667,142.5814,35.0,6.3,"100 km ENE of Hachinohe, Japan",Strong
-2021-02-13T14:07:49.797Z,37.7265,141.7751,43.98,7.1,"73 km ENE of Namie, Japan",Major
-2021-03-20T09:09:43.966Z,38.4515,141.6477,43.0,7.0,"30 km E of Ishinomaki, Japan",Major
-2021-05-01T01:27:27.215Z,38.1997,141.5973,43.0,6.9,,Strong
-2021-05-13T23:58:14.041Z,37.7169,141.8167,32.0,6.0,"76 km ENE of Namie, Japan",Moderate
-2021-09-29T08:37:05.619Z,38.8893,135.4527,364.0,6.1,"243 km NNW of Nanao, Japan",Strong
-2021-11-29T12:40:44.400Z,31.196,142.5026,11.0,6.3,,Strong
-2021-12-09T02:05:07.684Z,29.4132,129.3846,7.0,6.0,"116 km N of Naze, Japan",Moderate
-2022-01-21T16:08:37.210Z,32.7282,132.0386,39.0,6.3,"27 km SSE of Saiki, Japan",Strong
-2022-03-16T14:34:27.453Z,37.6468,141.6735,57.18,6.0,"62 km ENE of Namie, Japan",Moderate
-2022-03-16T14:36:30.997Z,37.7132,141.5793,41.0,7.3,"57 km ENE of Namie, Japan",Major
-2022-05-22T15:17:31.327Z,33.2279,141.4121,12.0,6.0,"235 km SSE of Katsuura, Japan",Moderate
-2022-11-14T08:08:26.124Z,33.8139,137.3055,346.0,6.1,"85 km SSE of Toba, Japan",Strong
+Time,Latitude,Longitude,Depth,Magnitude,Place
+2000-01-28,43.046,146.837,61.1,6.8,"84 km S of Shikotan, Russia"
+2000-02-13,42.853,131.572,513.6,6.0,"15 km E of Slavyanka, Russia"
+2000-06-03,35.552,140.464,62.3,6.2,"6 km SE of Narut?, Japan"
+2000-06-06,29.424,131.421,33.0,6.4,"124 km SE of Koshima, Japan"
+2000-06-09,30.491,137.73,485.3,6.3,"Izu Islands, Japan region"
+2000-06-15,29.368,132.082,10.0,6.1,"177 km ESE of Koshima, Japan"
+2000-06-25,31.183,131.206,10.0,6.0,"33 km S of Kushima, Japan"
+2000-07-01,34.221,139.131,10.0,6.1,"53 km SSE of Shimoda, Japan"
+2000-07-15,34.319,139.26,10.0,6.1,"near the south coast of Honshu, Japan"
+2000-07-20,36.51,140.983,47.1,6.0,"31 km ESE of Hitachi, Japan"
+2000-07-30,33.901,139.376,10.0,6.5,"94 km SSE of Shimoda, Japan"
+2000-08-06,28.856,139.556,394.8,7.4,"Bonin Islands, Japan region"
+2000-10-03,40.282,143.124,33.0,6.3,"123 km NE of Miyako, Japan"
+2000-10-06,35.456,133.134,10.0,6.7,"8 km ESE of Matsue, Japan"
+2000-10-27,26.266,140.46,388.0,6.1,"Bonin Islands, Japan region"
+2000-11-13,42.489,144.765,33.0,6.0,"62 km SSE of Kushiro, Japan"
+2000-12-22,44.79,147.196,140.4,6.2,"72 km SW of Kuril’sk, Russia"
+2001-02-26,46.815,144.525,392.0,6.1,"135 km E of Korsakov, Russia"
+2001-03-24,34.083,132.526,50.0,6.8,"16 km SSW of Kure, Japan"
+2001-04-14,30.092,141.768,10.0,6.0,"Izu Islands, Japan region"
+2001-04-26,43.097,145.923,86.0,6.0,"37 km SE of Nemuro, Japan"
+2001-08-13,41.046,142.308,38.0,6.4,"87 km ENE of Misawa, Japan"
+2001-12-02,39.402,141.089,123.8,6.5,"3 km NW of Hanamaki, Japan"
+2001-12-08,28.251,129.574,33.0,6.2,"15 km SE of Naze, Japan"
+2002-06-28,43.752,130.666,566.0,7.3,"50 km SW of Dongning, China"
+2002-08-02,29.28,138.97,426.1,6.3,"Izu Islands, Japan region"
+2002-08-20,30.986,141.966,9.0,6.3,"Izu Islands, Japan region"
+2002-08-24,43.11,146.118,42.6,6.1,"50 km ESE of Nemuro, Japan"
+2002-09-15,44.833,129.923,586.3,6.4,"21 km ENE of Chaihe, China"
+2002-10-14,41.174,142.249,61.4,6.1,"87 km E of Mutsu, Japan"
+2002-11-03,38.886,141.977,39.0,6.4,"30 km SE of ?funato, Japan"
+2003-04-29,43.706,147.805,62.5,6.0,"87 km E of Shikotan, Russia"
+2003-05-26,38.849,141.568,68.0,7.0,"27 km SSW of ?funato, Japan"
+2003-07-25,38.415,140.996,6.0,6.1,"7 km NW of Matsushima, Japan"
+2003-08-31,43.393,132.267,481.1,6.2,"6 km E of Knevichi, Russia"
+2003-09-25,41.815,143.91,27.0,8.16,"134 km SSW of Kushiro, Japan"
+2003-09-25,41.774,143.593,33.0,7.4,"119 km ESE of Shizunai-furukawach?, Japan"
+2003-09-26,41.988,144.576,33.0,6.0,"110 km S of Kushiro, Japan"
+2003-09-29,42.45,144.38,25.0,6.5,"58 km S of Kushiro, Japan"
+2003-10-08,42.648,144.57,32.0,6.7,"39 km SSE of Kushiro, Japan"
+2003-10-31,37.812,142.619,10.0,7.0,"133 km ESE of Ishinomaki, Japan"
+2003-11-12,33.171,137.072,384.9,6.4,"118 km ESE of Shing?, Japan"
+2003-12-29,42.423,144.613,33.0,6.1,"64 km SSE of Kushiro, Japan"
+2004-04-03,36.428,141.008,31.0,6.0,"37 km ESE of Hitachi, Japan"
+2004-04-11,42.918,144.836,41.8,6.1,"38 km E of Kushiro, Japan"
+2004-05-29,34.251,141.406,16.0,6.5,"140 km SE of Katsuura, Japan"
+2004-07-22,26.489,128.894,20.9,6.1,"91 km E of Nago, Japan"
+2004-09-05,33.07,136.618,14.0,7.2,"94 km SE of Shing?, Japan"
+2004-09-05,33.184,137.071,10.0,7.4,"118 km ESE of Shing?, Japan"
+2004-09-05,33.202,137.101,15.0,6.51,"119 km ESE of Shing?, Japan"
+2004-09-06,33.205,137.227,10.0,6.6,"129 km ESE of Shing?, Japan"
+2004-09-08,33.14,137.2,21.2,6.1,"130 km ESE of Shing?, Japan"
+2004-10-23,37.226,138.779,16.0,6.6,"8 km SSW of Ojiya, Japan"
+2004-10-23,37.318,138.816,10.5,6.1,"2 km NE of Ojiya, Japan"
+2004-10-23,37.318,138.808,10.0,6.3,"2 km NNE of Ojiya, Japan"
+2004-10-27,37.284,138.885,14.1,6.0,"7 km ESE of Ojiya, Japan"
+2004-11-11,42.139,144.344,32.8,6.1,"92 km S of Kushiro, Japan"
+2004-11-28,43.006,145.119,39.0,7.0,"51 km SW of Nemuro, Japan"
+2004-12-06,42.9,145.228,35.0,6.8,"54 km SSW of Nemuro, Japan"
+2005-01-18,42.946,144.866,42.0,6.3,"40 km E of Kushiro, Japan"
+2005-01-19,34.064,141.491,27.8,6.6,"161 km SE of Katsuura, Japan"
+2005-02-09,26.088,143.997,24.0,6.3,"Bonin Islands, Japan region"
+2005-03-20,33.807,130.131,10.0,6.6,"28 km NNW of Maebaru-ch??, Japan"
+2005-08-16,38.276,142.039,36.0,7.2,"66 km ESE of Ishinomaki, Japan"
+2005-08-24,38.564,142.987,10.0,6.1,"123 km ESE of ?funato, Japan"
+2005-08-30,38.481,143.175,21.1,6.1,"142 km ESE of ?funato, Japan"
+2005-09-21,43.892,146.145,103.0,6.1,"27 km ESE of Yuzhno-Kurilsk, Russia"
+2005-10-19,36.405,140.839,32.0,6.3,"25 km ENE of ?arai, Japan"
+2005-11-14,38.107,144.896,11.0,7.0,"293 km ESE of Kamaishi, Japan"
+2005-11-21,31.019,129.997,145.0,6.1,"41 km SW of Makurazaki, Japan"
+2005-12-02,38.089,142.122,29.0,6.5,"80 km ESE of Ishinomaki, Japan"
+2005-12-16,38.506,141.9,42.9,6.0,"53 km E of Ishinomaki, Japan"
+2006-06-11,33.134,131.145,140.0,6.3,"15 km S of Tsukawaki, Japan"
+2006-10-10,37.197,142.664,9.0,6.0,"150 km ESE of Namie, Japan"
+2006-10-23,29.351,140.27,11.0,6.4,"Izu Islands, Japan region"
+2006-11-17,28.591,129.895,22.0,6.2,"Ryukyu Islands, Japan"
+2007-02-17,41.794,143.553,31.0,6.0,"115 km ESE of Shizunai-furukawach?, Japan"
+2007-03-08,29.908,140.204,139.6,6.1,"Izu Islands, Japan region"
+2007-03-09,43.224,133.526,441.2,6.0,"19 km SE of Sergeyevka, Russia"
+2007-03-25,37.336,136.588,8.0,6.7,"46 km NW of Nanao, Japan"
+2007-07-16,37.535,138.446,12.0,6.6,"20 km NNW of Kashiwazaki, Japan"
+2007-07-16,36.808,134.85,350.4,6.8,"133 km WNW of Mikuni, Japan"
+2007-08-07,27.292,126.836,18.1,6.0,"136 km WNW of Nago, Japan"
+2007-12-25,38.503,142.026,48.4,6.1,"64 km E of Ishinomaki, Japan"
+2008-02-27,26.816,142.438,15.0,6.2,"Bonin Islands, Japan region"
+2008-03-14,26.988,142.599,10.0,6.0,"Bonin Islands, Japan region"
+2008-05-07,36.178,141.545,19.0,6.2,"80 km NE of Hasaki, Japan"
+2008-05-07,36.156,141.756,23.3,6.1,"95 km ENE of Hasaki, Japan"
+2008-05-07,36.164,141.526,27.0,6.9,"78 km NE of Hasaki, Japan"
+2008-06-13,39.03,140.881,7.8,6.9,"24 km WSW of Mizusawa, Japan"
+2008-06-29,45.156,137.446,326.0,6.0,"66 km E of Terney, Russia"
+2008-07-08,27.532,128.334,43.0,6.0,"107 km NNE of Nago, Japan"
+2008-07-19,37.552,142.214,22.0,7.0,"107 km E of Namie, Japan"
+2008-07-21,37.186,142.051,22.0,6.0,"98 km ESE of Namie, Japan"
+2008-07-23,39.802,141.464,108.0,6.8,"29 km ENE of Morioka, Japan"
+2008-09-11,41.892,143.754,25.0,6.8,"122 km SSE of Obihiro, Japan"
+2008-12-20,36.541,142.425,19.0,6.3,"148 km ESE of Iwaki, Japan"
+2009-06-05,41.824,143.445,29.0,6.4,"105 km ESE of Shizunai-furukawach?, Japan"
+2009-08-09,33.167,137.944,292.0,7.1,"161 km S of ?yama, Japan"
+2009-08-10,34.743,138.264,40.4,6.2,"8 km NE of Sagara, Japan"
+2009-08-12,32.821,140.395,53.0,6.6,"244 km SSE of Tateyama, Japan"
+2009-09-03,31.14,130.014,163.0,6.2,"32 km WSW of Makurazaki, Japan"
+2009-10-30,29.218,129.782,34.0,6.8,"98 km NNE of Naze, Japan"
+2009-12-24,42.245,134.719,392.0,6.3,"98 km SE of Preobrazheniye, Russia"
+2010-02-18,42.587,130.703,577.7,6.9,"15 km SSW of Kraskino, Russia"
+2010-02-26,25.93,128.425,25.0,7.0,"70 km SE of Katsuren-haebaru, Japan"
+2010-03-14,37.745,141.59,32.0,6.5,"59 km ENE of Namie, Japan"
+2010-05-03,29.645,140.951,84.0,6.1,
+2010-05-26,25.773,129.944,10.0,6.5,"216 km ESE of Katsuren-haebaru, Japan"
+2010-07-04,39.697,142.369,27.0,6.3,"37 km E of Miyako, Japan"
+2010-11-30,28.349,139.187,470.0,6.8,"Bonin Islands, Japan region"
+2010-12-21,26.901,143.698,14.0,7.4,"Bonin Islands, Japan region"
+2010-12-22,26.81,143.595,18.0,6.4,"Bonin Islands, Japan region"
+2011-01-12,26.973,139.882,512.0,6.4,"Bonin Islands, Japan region"
+2011-03-09,38.435,142.842,32.0,7.3,"120 km SE of ?funato, Japan"
+2011-03-09,38.315,142.434,22.0,6.0,"99 km E of Ishinomaki, Japan"
+2011-03-09,38.345,142.648,23.0,6.0,"114 km SE of ?funato, Japan"
+2011-03-09,38.296,142.808,15.0,6.5,"128 km SE of ?funato, Japan"
+2011-03-11,38.297,142.373,29.0,9.1,"2011 Great Tohoku Earthquake, Japan"
+2011-03-11,37.712,141.184,32.3,6.3,"30 km NNE of Namie, Japan"
+2011-03-11,37.359,143.351,35.0,6.4,"208 km E of Namie, Japan"
+2011-03-11,37.623,142.155,50.7,6.3,"103 km E of Namie, Japan"
+2011-03-11,38.095,142.492,40.6,6.2,"110 km ESE of Ishinomaki, Japan"
+2011-03-11,39.003,142.29,42.7,6.3,"47 km SE of Kamaishi, Japan"
+2011-03-11,36.419,141.876,32.3,6.4,"108 km ESE of Kitaibaraki, Japan"
+2011-03-11,38.969,143.37,2.8,6.7,"134 km ESE of Kamaishi, Japan"
+2011-03-11,37.788,144.233,25.4,6.2,"261 km ESE of ?funato, Japan"
+2011-03-11,37.211,141.601,40.1,6.2,"61 km ESE of Namie, Japan"
+2011-03-11,37.93,143.802,35.0,6.3,"221 km SE of ?funato, Japan"
+2011-03-11,36.281,141.111,42.6,7.9,"47 km E of ?arai, Japan"
+2011-03-11,36.023,142.269,16.0,6.6,"133 km ENE of Hasaki, Japan"
+2011-03-11,36.004,142.067,49.3,6.5,"115 km ENE of Hasaki, Japan"
+2011-03-11,38.29,142.813,51.7,6.2,"128 km SE of ?funato, Japan"
+2011-03-11,39.03,142.284,56.3,6.2,"45 km SE of Kamaishi, Japan"
+2011-03-11,38.058,144.59,18.6,7.7,"272 km ESE of Kamaishi, Japan"
+2011-03-11,37.812,144.233,40.6,6.1,"260 km ESE of ?funato, Japan"
+2011-03-11,37.961,142.724,11.7,6.2,"134 km ESE of Ishinomaki, Japan"
+2011-03-11,37.337,144.237,47.3,6.1,"284 km ESE of Ishinomaki, Japan"
+2011-03-11,35.712,140.875,47.5,6.0,"4 km ESE of Hasaki, Japan"
+2011-03-11,37.357,144.725,35.9,6.3,"off the east coast of Honshu, Japan"
+2011-03-11,36.586,141.823,24.7,6.3,"near the east coast of Honshu, Japan"
+2011-03-11,37.934,144.529,39.5,6.1,"275 km ESE of Kamaishi, Japan"
+2011-03-11,36.823,141.824,28.4,6.1,"87 km ESE of Iwaki, Japan"
+2011-03-11,39.031,142.349,45.4,6.3,"49 km ESE of Kamaishi, Japan"
+2011-03-11,37.442,141.195,49.2,6.0,"17 km ESE of Namie, Japan"
+2011-03-11,36.569,141.486,39.6,6.2,"70 km ESE of Kitaibaraki, Japan"
+2011-03-11,37.047,144.541,41.0,6.1,"off the east coast of Honshu, Japan"
+2011-03-11,36.166,141.562,6.8,6.5,"81 km NE of Hasaki, Japan"
+2011-03-11,37.367,143.017,17.0,6.1,"178 km E of Namie, Japan"
+2011-03-11,38.017,142.657,42.8,6.0,"126 km ESE of Ishinomaki, Japan"
+2011-03-11,37.469,141.176,37.3,6.0,"15 km E of Namie, Japan"
+2011-03-11,39.14,142.967,27.6,6.0,"94 km ESE of Yamada, Japan"
+2011-03-11,39.185,142.76,26.5,6.0,"76 km ESE of Yamada, Japan"
+2011-03-11,39.241,142.463,25.7,6.6,"50 km ESE of ?tsuchi, Japan"
+2011-03-11,35.994,141.808,21.0,6.3,"92 km ENE of Hasaki, Japan"
+2011-03-11,36.398,141.864,52.8,6.0,"108 km ESE of Takahagi, Japan"
+2011-03-11,37.014,138.376,9.3,6.2,"13 km E of Arai, Japan"
+2011-03-11,39.342,142.872,27.1,6.0,"80 km E of Yamada, Japan"
+2011-03-11,40.483,139.055,10.0,6.2,"88 km WNW of Noshiro, Japan"
+2011-03-11,39.005,142.633,17.4,6.1,"72 km ESE of Kamaishi, Japan"
+2011-03-12,37.594,142.648,20.0,6.5,"146 km E of Namie, Japan"
+2011-03-12,37.249,141.159,38.0,6.1,"29 km SSE of Namie, Japan"
+2011-03-12,38.047,141.72,15.0,6.1,"55 km SE of Ishinomaki, Japan"
+2011-03-13,35.723,141.637,8.0,6.1,"72 km E of Hasaki, Japan"
+2011-03-14,37.785,142.456,14.0,6.0,"123 km SE of Ishinomaki, Japan"
+2011-03-15,37.576,142.237,28.0,6.0,"109 km E of Namie, Japan"
+2011-03-15,35.272,138.582,9.0,6.0,"6 km NNW of Fujinomiya, Japan"
+2011-03-15,40.335,143.288,18.0,6.1,"138 km ENE of Miyako, Japan"
+2011-03-17,40.136,142.168,29.0,6.2,"57 km NNE of Miyako, Japan"
+2011-03-22,37.244,144.003,11.0,6.4,"267 km E of Namie, Japan"
+2011-03-22,37.325,141.791,31.0,6.1,"72 km ESE of Namie, Japan"
+2011-03-22,39.851,143.437,13.0,6.4,"130 km E of Miyako, Japan"
+2011-03-25,38.772,141.88,39.0,6.2,"36 km SSE of ?funato, Japan"
+2011-03-27,38.415,142.011,19.0,6.2,"62 km E of Ishinomaki, Japan"
+2011-03-29,37.401,142.29,15.0,6.1,"114 km E of Namie, Japan"
+2011-03-31,38.922,141.821,42.0,6.0,"18 km SSE of ?funato, Japan"
+2011-04-07,38.276,141.588,42.0,7.1,"29 km ESE of Ishinomaki, Japan"
+2011-04-11,37.001,140.401,11.0,6.6,"17 km SSW of Ishikawa, Japan"
+2011-04-11,35.417,140.575,15.0,6.2,"23 km SE of T?gane, Japan"
+2011-04-13,39.583,143.34,22.0,6.0,"120 km E of Yamada, Japan"
+2011-04-21,35.579,140.305,43.0,6.2,"6 km WNW of T?gane, Japan"
+2011-05-05,38.17,144.032,11.0,6.0,"224 km SE of Kamaishi, Japan"
+2011-05-13,37.396,141.341,35.0,6.1,"31 km ESE of Namie, Japan"
+2011-06-03,37.285,143.907,14.0,6.1,"258 km E of Namie, Japan"
+2011-06-22,39.955,142.205,33.0,6.7,"41 km NNE of Miyako, Japan"
+2011-07-10,38.034,143.264,23.0,7.0,"177 km ESE of Ishinomaki, Japan"
+2011-07-23,38.898,141.815,41.0,6.3,"21 km SSE of ?funato, Japan"
+2011-07-24,37.73,141.39,40.0,6.3,"43 km NE of Namie, Japan"
+2011-07-30,36.942,140.955,38.0,6.3,"13 km SSE of Iwaki, Japan"
+2011-08-17,36.765,143.77,9.0,6.1,"258 km ESE of Namie, Japan"
+2011-08-19,37.671,141.652,47.0,6.2,"61 km ENE of Namie, Japan"
+2011-09-15,36.256,141.338,28.0,6.1,"68 km E of ?arai, Japan"
+2011-09-16,40.273,142.779,30.0,6.7,"99 km NE of Miyako, Japan"
+2011-10-21,43.892,142.479,187.0,6.1,"16 km NE of Asahikawa, Japan"
+2011-11-23,37.365,141.368,34.0,6.1,"35 km ESE of Namie, Japan"
+2011-11-24,41.898,142.639,38.0,6.2,"53 km SSE of Shizunai-furukawach?, Japan"
+2012-01-01,31.456,138.072,365.3,6.8,"Izu Islands, Japan region"
+2012-03-14,40.887,144.944,12.0,6.9,"236 km SSE of Kushiro, Japan"
+2012-03-14,40.781,144.761,10.0,6.1,"245 km S of Kushiro, Japan"
+2012-03-14,35.687,140.695,10.0,6.0,"5 km SE of Asahi, Japan"
+2012-03-27,39.859,142.017,15.0,6.1,"24 km NNE of Miyako, Japan"
+2012-05-20,39.646,143.164,11.0,6.3,"105 km E of Miyako, Japan"
+2012-05-26,26.91,140.055,487.4,6.0,"Bonin Islands, Japan region"
+2012-06-05,34.943,141.132,15.0,6.1,"75 km ESE of ?hara, Japan"
+2012-06-17,38.919,141.831,36.0,6.3,"19 km SSE of ?funato, Japan"
+2012-10-01,39.808,143.099,15.0,6.1,"100 km E of Miyako, Japan"
+2012-12-07,37.89,143.949,31.0,7.3,"234 km SE of ?funato, Japan"
+2012-12-07,37.914,143.764,32.0,6.2,"220 km SE of ?funato, Japan"
+2013-02-02,42.77,143.092,107.0,6.9,"18 km SSW of Obihiro, Japan"
+2013-04-01,39.526,143.167,14.0,6.0,"104 km E of Yamada, Japan"
+2013-04-05,42.736,131.003,563.3,6.3,"13 km NNW of Zarubino, Russia"
+2013-04-21,29.933,138.887,421.9,6.1,"Izu Islands, Japan region"
+2013-05-18,37.739,141.471,39.0,6.0,"50 km NE of Namie, Japan"
+2013-09-04,29.9377,138.8325,402.0,6.5,"Izu Islands, Japan region"
+2013-10-25,37.1557,144.6611,35.0,7.1,"off the east coast of Honshu, Japan"
+2014-03-02,27.4312,127.3674,119.0,6.5,"109 km NW of Nago, Japan"
+2014-03-13,33.6842,131.8249,79.0,6.3,"32 km SSW of Hikari, Japan"
+2014-05-04,34.9118,139.4186,153.0,6.0,"31 km ESE of It?, Japan"
+2014-06-29,24.3877,142.6278,48.0,6.2,"Volcano Islands, Japan region"
+2014-06-30,28.3404,138.8441,511.0,6.2,"Bonin Islands, Japan region"
+2014-07-11,37.0052,142.4525,20.0,6.5,"139 km ESE of Namie, Japan"
+2014-08-10,41.1585,142.1309,41.0,6.1,"78 km E of Mutsu, Japan"
+2014-10-11,41.0272,143.1649,22.0,6.1,"152 km ENE of Hachinohe, Japan"
+2014-11-22,36.6408,137.8875,9.0,6.2,"6 km SSE of Hakuba, Japan"
+2015-02-16,39.8558,142.8808,23.0,6.7,"83 km ENE of Miyako, Japan"
+2015-02-20,39.8244,143.5871,10.0,6.2,"142 km E of Miyako, Japan"
+2015-02-21,39.8185,143.4861,7.0,6.0,"133 km E of Miyako, Japan"
+2015-05-10,31.2373,142.0157,6.0,6.0,"Izu Islands, Japan region"
+2015-05-12,38.9056,142.0317,35.0,6.8,"32 km SE of ?funato, Japan"
+2015-05-30,27.8386,140.4931,664.0,7.8,"Bonin Islands, Japan region"
+2015-05-30,30.7856,142.9722,6.05,6.2,"Izu Islands, Japan region"
+2015-06-08,41.5615,142.0308,42.0,6.1,"74 km ENE of Mutsu, Japan"
+2015-06-23,27.7375,139.7254,460.0,6.5,"Bonin Islands, Japan region"
+2015-07-07,43.9097,147.9748,49.0,6.3,"101 km E of Shikotan, Russia"
+2015-09-01,31.1806,141.6,8.0,6.0,"Izu Islands, Japan region"
+2015-11-13,31.0009,128.8729,12.0,6.7,"140 km WSW of Makurazaki, Japan"
+2016-01-11,44.4761,141.0867,238.81,6.2,"74 km NW of Rumoi, Japan"
+2016-01-14,41.9723,142.781,46.0,6.7,"52 km SE of Shizunai-furukawach?, Japan"
+2016-04-14,32.788,130.7042,9.0,6.2,"2 km SSE of Kumamoto, Japan"
+2016-04-14,32.6973,130.7204,8.0,6.0,"5 km ENE of Uto, Japan"
+2016-04-15,32.7906,130.7543,10.0,7.0,"6 km ESE of Kumamoto, Japan"
+2016-08-04,24.9447,142.0141,510.0,6.3,"Volcano Islands, Japan region"
+2016-08-20,40.3942,143.6796,10.0,6.0,"170 km ENE of Miyako, Japan"
+2016-09-20,30.5017,142.0478,9.0,6.1,"Izu Islands, Japan region"
+2016-09-23,34.4619,141.6368,10.0,6.2,"142 km ESE of Katsuura, Japan"
+2016-10-21,35.3743,133.8092,5.63,6.2,"6 km S of Kurayoshi, Japan"
+2016-11-11,38.4973,141.5658,42.4,6.1,"24 km ENE of Ishinomaki, Japan"
+2016-11-21,37.3931,141.387,9.0,6.9,"35 km ESE of Namie, Japan"
+2017-05-09,24.45,126.3174,10.0,6.0,"110 km ESE of Hirara, Japan"
+2017-07-26,26.8975,130.1836,12.0,6.0,"176 km SSE of Naze, Japan"
+2017-09-03,41.3324,129.0297,0.0,6.3,"21 km ENE of S?ngjibaegam, North Korea"
+2017-09-07,27.7829,139.8041,451.0,6.1,"Bonin Islands, Japan region"
+2017-09-20,37.9814,144.6601,11.0,6.1,"282 km ESE of Kamaishi, Japan"
+2017-10-06,37.5033,144.0201,9.0,6.2,"259 km ESE of Ishinomaki, Japan"
+2017-11-09,32.5208,141.438,12.0,6.0,"Izu Islands, Japan region"
+2018-01-24,41.1034,142.4323,31.0,6.3,"99 km ENE of Misawa, Japan"
+2018-09-05,42.6861,141.9294,35.0,6.6,"27 km ESE of Chitose, Japan"
+2019-01-08,30.5872,131.0441,35.0,6.3,"16 km SSE of Nishinoomote, Japan"
+2019-04-11,40.4096,143.2985,18.0,6.0,"143 km NE of Miyako, Japan"
+2019-05-09,31.7772,131.8483,22.0,6.2,"43 km ESE of Miyazaki, Japan"
+2019-06-04,29.0665,139.289,422.0,6.4,"Izu Islands, Japan region"
+2019-06-18,38.6391,139.4769,12.0,6.4,"31 km WSW of Tsuruoka, Japan"
+2019-07-13,29.3533,128.1534,251.0,6.1,"169 km NW of Naze, Japan"
+2019-07-27,33.1492,137.3029,367.0,6.3,"138 km ESE of Shing?, Japan"
+2019-08-04,37.7594,141.6031,38.0,6.3,"61 km ENE of Namie, Japan"
+2020-04-18,27.1264,140.1349,453.0,6.6,"Bonin Islands, Japan region"
+2020-04-19,38.8953,142.0049,38.0,6.3,"31 km SE of ?funato, Japan"
+2020-06-13,28.8591,128.2713,165.0,6.6,"130 km WNW of Naze, Japan"
+2020-09-12,38.7482,142.2446,34.0,6.1,"58 km SE of ?funato, Japan"
+2020-12-20,40.8667,142.5814,35.0,6.3,"100 km ENE of Hachinohe, Japan"
+2021-02-13,37.7265,141.7751,43.98,7.1,"73 km ENE of Namie, Japan"
+2021-03-20,38.4515,141.6477,43.0,7.0,"30 km E of Ishinomaki, Japan"
+2021-05-01,38.1997,141.5973,43.0,6.9,
+2021-05-13,37.7169,141.8167,32.0,6.0,"76 km ENE of Namie, Japan"
+2021-09-29,38.8893,135.4527,364.0,6.1,"243 km NNW of Nanao, Japan"
+2021-11-29,31.196,142.5026,11.0,6.3,
+2021-12-09,29.4132,129.3846,7.0,6.0,"116 km N of Naze, Japan"
+2022-01-21,32.7282,132.0386,39.0,6.3,"27 km SSE of Saiki, Japan"
+2022-03-16,37.6468,141.6735,57.18,6.0,"62 km ENE of Namie, Japan"
+2022-03-16,37.7132,141.5793,41.0,7.3,"57 km ENE of Namie, Japan"
+2022-05-22,33.2279,141.4121,12.0,6.0,"235 km SSE of Katsuura, Japan"
+2022-11-14,33.8139,137.3055,346.0,6.1,"85 km SSE of Toba, Japan"
