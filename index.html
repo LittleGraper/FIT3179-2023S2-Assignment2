@@ -7,7 +7,7 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-  <title> This is just a temp title </title>
+  <title> Earthquakes of magnitude above 6 between 2000 and 2022 in Japan </title>
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
@@ -15,12 +15,12 @@
 
 <body>
 
-  <div id="symbol_map"></div>
+  <div id="earthquake_map"></div>
 
   <script type="text/javascript">
 
-    var spec2 = "js/map.json";
-    vegaEmbed('#symbol_map', spec2).then(function (result) {
+    var spec = "js/map.json";
+    vegaEmbed('#earthquake_map', spec).then(function (result) {
     }).catch(console.error);
   </script>
 
