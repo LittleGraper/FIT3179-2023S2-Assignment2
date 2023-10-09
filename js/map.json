@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
   "height": 500,
-  "title": "Distribution of earthquakes of different scales in Japan",
+  "title": "Earthquakes of magnitude above 6 between 2000 and 2022 in Japan",
   "projection": {
     "type": "equirectangular"
   },
@@ -86,8 +86,25 @@
           "field": "Scale",
           "type": "nominal",
           "title": "Scale",
+          "sort": [
+            "Great",
+            "Major",
+            "Strong",
+            "Moderate"
+          ],
           "scale": {
-            "scheme": "redblue"
+            "domain": [
+              "Great",
+              "Major",
+              "Strong",
+              "Moderate"
+            ],
+            "range": [
+              "#e41a1c",
+              "#ff7f00",
+              "#4da4eb",
+              "#c6dbe9"
+            ]
           }
         }
       }
