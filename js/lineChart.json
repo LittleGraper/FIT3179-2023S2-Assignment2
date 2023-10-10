@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
+  },
+  "vconcat": [
+    {
+      "mark": "line",
+      "width": 500,
+      "height": 100,
+      "encoding": {
+        "x": {
+          "field": "Time",
+          "type": "temporal",
+          "title": null,
+          "scale": {
+            "domain": {
+              "param": "brush"
+            }
+          }
+        },
+        "y": {
+          "field": "Magnitude",
+          "aggregate": "average",
+          "type": "quantitative",
+          "title": "Average Magnitude",
+          "scale": {
+            "domain": [
+              6,
+              7.5
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mark": "line",
+      "width": 500,
+      "height": 100,
+      "encoding": {
+        "x": {
+          "field": "Time",
+          "type": "temporal",
+          "title": null,
+          "scale": {
+            "domain": {
+              "param": "brush"
+            }
+          }
+        },
+        "y": {
+          "field": "Depth",
+          "aggregate": "average",
+          "type": "quantitative",
+          "title": "Average Depth",
+          "scale": {
+            "domain": [
+              0,
+              700
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mark": "line",
+      "width": 500,
+      "height": 100,
+      "params": [
+        {
+          "name": "brush",
+          "select": {
+            "type": "interval",
+            "encodings": [
+              "x"
+            ]
+          }
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Time",
+          "type": "temporal",
+          "title": null
+        },
+        "y": {
+          "field": "Magnitude",
+          "aggregate": "count",
+          "type": "quantitative",
+          "title": "Count of earthquakes",
+          "scale": {
+            "domain": [
+              0,
+              50
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
