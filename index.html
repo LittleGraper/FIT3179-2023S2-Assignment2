@@ -7,21 +7,44 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-  <title> Earthquakes of magnitude above 6 between 2000 and 2022 in Japan </title>
+  <title> Visualisation </title>
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
 </head>
 
 <body>
+  <div class=".container">
+    <div id="scatterplot"></div>
+    <div id="lineChart"></div>
 
-  <div id="earthquake_map"></div>
+  </div>
+
+
 
   <script type="text/javascript">
 
     var spec = "js/map.json";
     vegaEmbed('#earthquake_map', spec).then(function (result) {
     }).catch(console.error);
+
+    var spec2 = "js/lineChart.json";
+    vegaEmbed('#lineChart', spec2).then(function (result) {
+    }).catch(console.error);
+
+    var spec3 = "js/MagvsDepCount.json";
+    vegaEmbed('#MagvsDepCount', spec3).then(function (result) {
+    }).catch(console.error);
+
+    var spec4 = "js/scatterplot.json";
+    vegaEmbed('#scatterplot', spec4).then(function (result) {
+    }).catch(console.error);
+
+    var spec5 = "js/ScaleRatio.json";
+    vegaEmbed('#ScaleRatio', spec5).then(function (result) {
+    }).catch(console.error);
+
+
   </script>
 
 </body>

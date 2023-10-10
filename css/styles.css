@@ -1,8 +1,19 @@
-#symbol_map {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+.body {
+	width: 1000px;
+	background-color: aliceblue;
+}
+
+h1 {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: large;
+}
+
+.container {
+	width: 1000px;
+}
+
+
+#lineChart {
+	position: static;
+	right: inherit;
 }
