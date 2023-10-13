@@ -1,0 +1,41 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
+    },
+    "width": 400,
+    "height": 400,
+    "mark": {
+        "type": "boxplot",
+        "extent": "min-max"
+    },
+    "encoding": {
+        "x": {
+            "field": "Season",
+            "type": "nominal",
+            "sort": [
+                "Spring",
+                "Summer",
+                "Autumn",
+                "Winter"
+            ]
+        },
+        "color": {
+            "field": "Season",
+            "type": "nominal",
+            "sort": [
+                "Spring",
+                "Summer",
+                "Autumn",
+                "Winter"
+            ]
+        },
+        "y": {
+            "field": "Magnitude",
+            "type": "quantitative",
+            "scale": {
+                "zero": false
+            }
+        }
+    }
+}
