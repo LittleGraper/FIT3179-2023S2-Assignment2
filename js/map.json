@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 700,
   "height": 500,
   "title": "Earthquakes of magnitude above 6 between 2000 and 2022 in Japan",
   "projection": {
