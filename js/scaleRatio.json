@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "The proportion of earthquakes(by scales)",
-    "width": 200,
-    "height": 200,
+    "width": 250,
+    "height": 250,
     "data": {
         "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
     },
@@ -75,8 +75,7 @@
                     "goldenrod",
                     "cadetblue"
                 ]
-            },
-            "legend": null
+            }
         },
         "tooltip": [
             {

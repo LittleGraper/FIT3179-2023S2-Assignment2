@@ -38,17 +38,17 @@ description {
 	display: flex;
 	flex-direction: row;
 	background-color: white;
-	width: auto
-		/* margin: auto; */
+	width: 100%;
+	/* margin: auto; */
 }
 
 .left-column,
 .right-column {
 	flex: 1;
-	flex-basis: 400px;
+	flex-basis: cal(50%-20px);
 	flex-grow: 1;
 	flex-shrink: 1;
-	width: auto;
+	width: 100%;
 	margin: 10px;
 
 }
@@ -71,17 +71,21 @@ i1 {
 
 .moderate {
 	color: cadetblue;
+	margin-left: 20px;
 }
 
 .strong {
-	color: goldenrod
+	color: goldenrod;
+	margin-left: 20px;
 }
 
 .major {
 	color: indianred;
+	margin-left: 20px;
 }
 
 
 .great {
 	color: red;
+	margin-left: 20px;
 }

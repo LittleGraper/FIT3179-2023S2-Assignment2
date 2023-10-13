@@ -24,86 +24,151 @@
       location, intensity and magnitude of each major earthquake, as well as
       the focal depth.</description>
 
-    <h2> Background About Japan</h2>
 
+    <div>
+      <h2> Background About Japan</h2>
+      <p>Japan's is located at the intersection of multiple tectonic plates,
+        coupled with related trenches and active volcanic activity, makes it an
+        earthquake-prone region.</p>
 
-    <p>Japan's is located at the intersection of multiple tectonic plates,
-      coupled with related trenches and active volcanic activity, makes it an
-      earthquake-prone region.</p>
-
-    <h2> About the earthquake </h2>
-    <div class="double-column">
-      <div class="left-column">
-
-        <p>
-          <b>Magnitude:</b>
-          a scale that quantifies the energy release of an
-          earthquake. It is a logarithmic scale, where an increase of 1.0
-          indicates roughly 32 times more energy release. <br>
-          <br>
-          <b>Focal Depth: </b>
-          describes the depth underground where the earthquake rupture
-          begins. <br>
-          <br>
-          <b>Scale: </b>
-          hinged on the magnitude of the earthquake <br>
-          <span class="moderate">Moderate</span>(5.5 - 6.0),
-          <span class="strong">Strong</span>(6.1 - 6.9),
-          <span class="major">Major</span>(7.0 - 7.9),
-          <span class="great">Great</span>(8.0 or greater).
-        </p>
-      </div>
-
-      <div class="right-column">
-        <div id="ScaleRatio"></div>
-      </div>
 
     </div>
 
+    <div>
+      <h2> About the earthquake </h2>
+      <div class="double-column">
+        <div class="left-column">
 
-    <h2> Distribution on Map </h2>
-    <div id="earthquake_map"></div> <br>
-    <p> </p>
+          <p>
+            <b>Magnitude:</b>
+            a scale that quantifies the energy release of an
+            earthquake. It is a logarithmic scale, where an increase of 1.0
+            indicates roughly 32 times more energy release. <br>
+            <br>
+            <b>Focal Depth: </b>
+            describes the depth underground where the earthquake rupture
+            begins. <br>
+            <br>
+            <b>Scale: </b> <br>
+            Hinged on the magnitude of the earthquake: <br>
+            <span class="moderate">Moderate</span> (5.5 - 6.0),<br>
+            <span class="strong">Strong</span> (6.1 - 6.9) <br>
+            <span class="major">Major</span> (7.0 - 7.9) <br>
+            <span class="great">Great</span> (8.0 or greater) <br>
+          </p>
+        </div>
+
+        <div class="right-column">
+          <div id="ScaleRatio"></div>
+        </div>
+
+      </div>
+    </div>
+
+    <div>
+      <h2> Distribution on Map </h2>
+      <div id="earthquake_map"></div> <br>
+      <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+    </div>
 
 
 
-    <!-- <div id="lineChart"> </div> -->
+    <div>
+
+      <h2> Trend and Frenquency </h2>
+      <div id="lineChart"></div>
+      <div>
+
+      </div>
+      <br>
+      <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+      <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+      <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+      <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+
+      <div class="double-column">
+        <div class="left-column">
+          <div id="MagvsDepCount"></div>
+        </div>
+        <div class="right-column">
+          <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+          <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+          <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+        </div>
+      </div>
+
+      <div>
+        <h2>Seasonal Analysis</h2>
+        <div class="double-column">
+          <div class="left-column">
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+          </div>
+
+          <div class="right-column">
+            <div id="Seasonal"></div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <h2>Relationship between Magnitude and Depth</h2>
+        <div class="double-column">
+          <div class="left-column">
+            <div id="scatterplot"></div>
+          </div>
+          <div class="right-column">
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+            <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+          </div>
+        </div>
+
+        <div>
+          <h2>Summary</h2>
+          <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+          <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+          <p> xxxxxxx <br> xxxxxxxx <br> To be Finished </p>
+        </div>
 
 
-
-  </div>
-
+      </div>
 
 
+    </div>
 
+    <script type="text/javascript">
 
-  <script type="text/javascript">
+      var spec = "js/map.json";
+      vegaEmbed('#earthquake_map', spec).then(function (result) {
+      }).catch(console.error);
 
-    var spec = "js/map.json";
-    vegaEmbed('#earthquake_map', spec).then(function (result) {
-    }).catch(console.error);
+      var spec2 = "js/lineChart.json";
+      vegaEmbed('#lineChart', spec2).then(function (result) {
+      }).catch(console.error);
 
-    var spec2 = "js/lineChart.json";
-    vegaEmbed('#lineChart', spec2).then(function (result) {
-    }).catch(console.error);
+      var spec3 = "js/MagvsDepCount.json";
+      vegaEmbed('#MagvsDepCount', spec3).then(function (result) {
+      }).catch(console.error);
 
-    var spec3 = "js/MagvsDepCount.json";
-    vegaEmbed('#MagvsDepCount', spec3).then(function (result) {
-    }).catch(console.error);
+      var spec4 = "js/scatterplot.json";
+      vegaEmbed('#scatterplot', spec4).then(function (result) {
+      }).catch(console.error);
 
-    var spec4 = "js/scatterplot.json";
-    vegaEmbed('#scatterplot', spec4).then(function (result) {
-    }).catch(console.error);
+      var spec5 = "js/ScaleRatio.json";
+      vegaEmbed('#ScaleRatio', spec5).then(function (result) {
+      }).catch(console.error);
 
-    var spec5 = "js/ScaleRatio.json";
-    vegaEmbed('#ScaleRatio', spec5).then(function (result) {
-    }).catch(console.error);
+      var spec6 = "js/Seasonal.json";
+      vegaEmbed('#Seasonal', spec6).then(function (result) {
+      }).catch(console.error);
 
-    var spec6 = "js/Seasonal.json";
-    vegaEmbed('#Seasonal', spec6).then(function (result) {
-    }).catch(console.error);
-
-  </script>
+    </script>
 
 </body>
 
