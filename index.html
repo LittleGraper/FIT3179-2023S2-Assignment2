@@ -7,18 +7,125 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-  <title> Visualisation </title>
+  <title> Visualisation 2</title>
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
 </head>
 
 <body>
-  <div class=".container">
-    <div id="scatterplot"></div>
-    <div id="lineChart"></div>
+
+  <div class="container">
+    <!-- Title & Subtitle -->
+    <h1> The magnitude and distribution Japanese earthquake (2000-2022) </h1>
+    <description>The data, collected from the USGS website, records historical
+      earthquake data of <b>magnitude 6 or greater</b> that have occurred <b>in
+        Japan since 2000</b>. The data set contains information on the time,
+      location, intensity and magnitude of each major earthquake, as well as
+      the focal depth.</description>
+
+    <h2> Background About Japan</h2>
+
+
+    <p>Japan's is located at the intersection of multiple tectonic plates,
+      coupled with related trenches and active volcanic activity, makes it an
+      earthquake-prone region.</p>
+
+    <h2> About the earthquake </h2>
+    <div class="double-column">
+      <div class="left-column">
+
+        <p>
+          <b>Magnitude:</b>
+          a scale that quantifies the energy release of an
+          earthquake. It is a logarithmic scale, where an increase of 1.0
+          indicates roughly 32 times more energy release. <br>
+          <br>
+          <b>Focal Depth: </b>
+          describes the depth underground where the earthquake rupture
+          begins. <br>
+          <br>
+          <b>Scale: </b>
+          hinged on the magnitude of the earthquake <br>
+          <span class="moderate">Moderate</span>(5.5 - 6.0),
+          <span class="strong">Strong</span>(6.1 - 6.9),
+          <span class="major">Major</span>(7.0 - 7.9),
+          <span class="great">Great</span>(8.0 or greater).
+        </p>
+      </div>
+
+      <div class="right-column">
+        <div id="ScaleRatio"></div>
+      </div>
+
+    </div>
+
+
+    <h2> Trend Analysis </h2>
+
+    <div id="lineChart"> </div>
+
+
 
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- 忽略以下片段 -->
+  <!-- <div class="container">
+
+    <div class="box1">
+
+      <h1>
+        Hello World
+      </h1>
+      <p>
+        Lorem ipsum dolor sit amet consecte tur adipisicing elit. Quisquam, quos.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, voluptatum.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
+      </p>
+
+    </div>
+
+    <div class="box2">
+
+      <h1>
+        Hello World 2
+      </h1>
+      <p>
+        Lorem ipsum dolor sit amet consecte tur adipisicing elit. Quisquam, quos.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, voluptatum.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
+      </p>
+
+      <button>
+        Click
+      </button>
+
+    </div>
+
+
+    <div class="list">
+      <ul>
+        <li><a href="#">list1</a></li>
+        <li><a href="#">list2</a></li>
+        <li><a href="#">list3</a></li>
+        <li><a href="#">list4</a></li>
+        <li><a href="#">list5</a></li>
+      </ul>
+    </div>
+
+  </div> -->
 
 
 

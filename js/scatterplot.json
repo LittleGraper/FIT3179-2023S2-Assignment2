@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "height": 500,
-    "width": 500,
+    "height": "container",
+    "width": "container",
     "title": "To be Done",
     "data": {
         "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"

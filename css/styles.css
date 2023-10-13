@@ -1,19 +1,87 @@
-.body {
-	width: 1000px;
-	background-color: aliceblue;
+body {
+	background-color: lightgray;
+}
+
+* {
+	font-family: Arial, Helvetica, sans-serif
 }
 
 h1 {
 	font-family: 'Times New Roman', Times, serif;
-	font-size: large;
+	font-size: xx-large;
+	font-style: italic;
 }
+
+h2 {
+	font-size: x-large;
+	text-align: left;
+}
+
+
+description {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: medium;
+	font-style: italic;
+}
+
 
 .container {
-	width: 1000px;
+	width: 800px;
+	background-color: white;
+	margin: auto;
+	padding: 70px;
+	padding-top: 35px;
 }
 
 
-#lineChart {
-	position: static;
-	right: inherit;
+.double-column {
+	display: flex;
+	flex-direction: row;
+	background-color: white;
+	width: auto
+		/* margin: auto; */
+}
+
+.left-column,
+.right-column {
+	flex: 1;
+	flex-basis: 400px;
+	flex-grow: 1;
+	flex-shrink: 1;
+	width: auto;
+	margin: 10px;
+
+}
+
+i1 {
+	font-weight: bolder;
+	font-style: italic;
+}
+
+.vis-container {
+	width: 100%;
+}
+
+
+.pure-g {
+	margin-bottom: 25px;
+}
+
+
+
+.moderate {
+	color: cadetblue;
+}
+
+.strong {
+	color: goldenrod
+}
+
+.major {
+	color: indianred;
+}
+
+
+.great {
+	color: red;
 }

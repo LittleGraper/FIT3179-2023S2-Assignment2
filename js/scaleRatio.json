@@ -61,8 +61,21 @@
             }
         },
         "color": {
-            "field": "count",
-            "type": "nominal",
+            "field": "Scale",
+            "scale": {
+                "domain": [
+                    "Great",
+                    "Major",
+                    "Strong",
+                    "Moderate"
+                ],
+                "range": [
+                    "red",
+                    "indianred",
+                    "goldenrod",
+                    "cadetblue"
+                ]
+            },
             "legend": null
         },
         "tooltip": [

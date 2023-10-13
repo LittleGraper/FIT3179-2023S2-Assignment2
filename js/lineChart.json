@@ -6,7 +6,7 @@
   "vconcat": [
     {
       "mark": "line",
-      "width": 500,
+      "width": 400,
       "height": 100,
       "encoding": {
         "x": {
@@ -35,7 +35,7 @@
     },
     {
       "mark": "line",
-      "width": 500,
+      "width": 400,
       "height": 100,
       "encoding": {
         "x": {
@@ -64,7 +64,7 @@
     },
     {
       "mark": "line",
-      "width": 500,
+      "width": 400,
       "height": 100,
       "params": [
         {
