@@ -8,13 +8,13 @@
     },
     "params": [
         {
-            "name": "Magnitude_Above",
-            "value": 5.5,
+            "name": "Year_After",
+            "value": 2000,
             "bind": {
                 "input": "range",
-                "min": 5.5,
-                "max": 9,
-                "step": 0.1
+                "min": 2000,
+                "max": 2022,
+                "step": 1
             }
         }
     ],
@@ -32,10 +32,11 @@
             "filter": "datum.Depth > 0"
         },
         {
-            "filter": "datum.Magnitude > 0"
+            "calculate": "year(datum.Time)",
+            "as": "Year"
         },
         {
-            "filter": "datum.Magnitude > Magnitude_Above"
+            "filter": "datum.Year >= Year_After"
         }
     ],
     "mark": "point",
