@@ -3,6 +3,12 @@
   "data": {
     "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
   },
+  "title": {
+    "text": "Trends in earthquake frequency and average Magnitude and Depth in Japan",
+    "subtitle": "From 2000 to 2022",
+    "subtitleColor": "gray",
+    "anchor": "middle"
+  },
   "vconcat": [
     {
       "mark": "line",
@@ -87,7 +93,7 @@
           "field": "Magnitude",
           "aggregate": "count",
           "type": "quantitative",
-          "title": "Count of earthquakes",
+          "title": "Frequency",
           "scale": {
             "domain": [
               0,

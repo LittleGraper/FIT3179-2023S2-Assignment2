@@ -4,21 +4,36 @@
         "url": "https://raw.githubusercontent.com/LittleGraper/FIT3179-2023S2-Assignment2/main/data/Earthquake_Japan.csv"
     },
     "mark": "rect",
-    "width": 300,
+    "width": 400,
     "height": 200,
+    "title": "The frequency of earthquakes with different Magnitude and depth",
+    "transform": [
+        {
+            "filter": "datum.Magnitude <= 7.5"
+        },
+        {
+            "filter": "datum.Depth <= 600"
+        }
+    ],
     "encoding": {
         "x": {
             "bin": {
-                "maxbins": 40
+                "maxbins": 20
             },
             "title": "Magnitude",
             "field": "Magnitude",
+            "scale": {
+                "domain": [
+                    6,
+                    7.5
+                ]
+            },
             "type": "quantitative"
         },
         "y": {
             "title": "Focal Depth",
             "bin": {
-                "maxbins": 40
+                "maxbins": 30
             },
             "field": "Depth",
             "type": "quantitative"

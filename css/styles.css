@@ -10,6 +10,7 @@ h1 {
 	font-family: 'Times New Roman', Times, serif;
 	font-size: xx-large;
 	font-style: italic;
+	margin-bottom: 30px;
 }
 
 h2 {
@@ -88,4 +89,9 @@ i1 {
 .great {
 	color: red;
 	margin-left: 20px;
+}
+
+.steelblue {
+	color: steelblue;
+	font-weight: bold;
 }
